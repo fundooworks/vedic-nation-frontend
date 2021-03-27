@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{nAbx:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),l=n.n(t),c=n("Wbzz"),r=n("Bl7J"),i=n("vrFN"),u=n("cafg"),o=n("EEAq");a.default=function(){var e=Object(c.d)("3496958832");return l.a.createElement(r.a,null,l.a.createElement(i.a,{title:"Chayanika"}),l.a.createElement(u.a,null,l.a.createElement("div",{className:"container"},l.a.createElement("h1",null,"Chayanika"))),l.a.createElement(o.a,{url:e.book.publicURL}))}}}]);
+//# sourceMappingURL=component---src-pages-books-chayanika-js-66bdb86774d2755345dd.js.map

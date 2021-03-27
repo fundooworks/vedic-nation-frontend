@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"9ymW":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),r=t("Bl7J"),c=t("vrFN"),i=t("Wbzz"),u=t("cafg"),m=t("EEAq");a.default=function(){var e=Object(i.d)("1541140005");return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Family Tree"}),l.a.createElement(u.a,null,l.a.createElement("div",{className:"container"},l.a.createElement("h1",null,"Family Tree"))),l.a.createElement(m.a,{url:e.book.publicURL}))}}}]);
+//# sourceMappingURL=component---src-pages-about-family-tree-js-dc851b39903ad8b47e4c.js.map

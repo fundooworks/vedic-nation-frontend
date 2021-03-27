@@ -1,0 +1,57 @@
+const { hot } = require("react-hot-loader/root")
+
+// prefer default export if available
+const preferDefault = m => (m && m.default) || m
+
+
+exports.components = {
+  "component---src-pages-404-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/404.js"))),
+  "component---src-pages-about-family-tree-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/about/family-tree.js"))),
+  "component---src-pages-about-life-in-brief-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/about/life-in-brief.js"))),
+  "component---src-pages-about-pandit-kshitish-kumar-vedalankar-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/about/pandit-kshitish-kumar-vedalankar.js"))),
+  "component---src-pages-about-trust-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/about/trust.js"))),
+  "component---src-pages-books-aadarsh-upay-aur-sujhav-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/aadarsh-upay-aur-sujhav.js"))),
+  "component---src-pages-books-aapt-rastra-purush-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/aapt-rastra-purush.js"))),
+  "component---src-pages-books-aryasamaj-ki-vichardhara-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/aryasamaj-ki-vichardhara.js"))),
+  "component---src-pages-books-asliyat-kya-hai-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/asliyat-kya-hai.js"))),
+  "component---src-pages-books-bangladesh-swatantrata-ke-baad-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/bangladesh-swatantrata-ke-baad.js"))),
+  "component---src-pages-books-bharat-ko-hindu-rajya-ghoshit-karo-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/bharat-ko-hindu-rajya-ghoshit-karo.js"))),
+  "component---src-pages-books-chayanika-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/chayanika.js"))),
+  "component---src-pages-books-desh-drishti-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/desh-drishti.js"))),
+  "component---src-pages-books-devta-kursi-ke-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/devta-kursi-ke.js"))),
+  "component---src-pages-books-divya-dayanand-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/divya-dayanand.js"))),
+  "component---src-pages-books-gandhi-ji-ka-hasya-vinod-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/gandhi-ji-ka-hasya-vinod.js"))),
+  "component---src-pages-books-gurukul-ki-aahuti-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/gurukul-ki-aahuti.js"))),
+  "component---src-pages-books-hindi-hee-kyon-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/hindi-hee-kyon.js"))),
+  "component---src-pages-books-index-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/index.js"))),
+  "component---src-pages-books-introduction-to-contents-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/introduction-to-contents.js"))),
+  "component---src-pages-books-ishwar-vaijyanikon-ki-drishti-mein-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/ishwar-vaijyanikon-ki-drishti-mein.js"))),
+  "component---src-pages-books-jaati-dharm-bhasha-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/jaati-dharm-bhasha.js"))),
+  "component---src-pages-books-jati-bhed-ka-abhishaap-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/jati-bhed-ka-abhishaap.js"))),
+  "component---src-pages-books-kashmir-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/kashmir.js"))),
+  "component---src-pages-books-list-of-books-and-compilations-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/list-of-books-and-compilations.js"))),
+  "component---src-pages-books-nizam-ki-jail-me-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/nizam-ki-jail-me.js"))),
+  "component---src-pages-books-o-mere-rajhans-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/o-mere-rajhans.js"))),
+  "component---src-pages-books-padosi-desh-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/padosi-desh.js"))),
+  "component---src-pages-books-pandim-ke-durgam-path-par-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/pandim-ke-durgam-path-par.js"))),
+  "component---src-pages-books-phir-is-andaaz-se-bahar-aayi-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/phir-is-andaaz-se-bahar-aayi.js"))),
+  "component---src-pages-books-praantiyata-aur-aatankwad-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/praantiyata-aur-aatankwad.js"))),
+  "component---src-pages-books-pt-kshitish-vedalankar-ki-kritiyan-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/pt-kshitish-vedalankar-ki-kritiyan.js"))),
+  "component---src-pages-books-rajneeti-nahi-rashtraneeti-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/rajneeti-nahi-rashtraneeti.js"))),
+  "component---src-pages-books-rajneetik-uthapatak-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/rajneetik-uthapatak.js"))),
+  "component---src-pages-books-rashtra-prahari-arya-samaj-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/rashtra-prahari-arya-samaj.js"))),
+  "component---src-pages-books-rashtriya-ekta-ki-buniyaden-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/rashtriya-ekta-ki-buniyaden.js"))),
+  "component---src-pages-books-rashtriya-patrakarita-ke-purodha-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/rashtriya-patrakarita-ke-purodha.js"))),
+  "component---src-pages-books-rashtriya-sarkar-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/rashtriya-sarkar.js"))),
+  "component---src-pages-books-storm-in-punjab-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/storm-in-punjab.js"))),
+  "component---src-pages-books-svetlana-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/svetlana.js"))),
+  "component---src-pages-books-toofan-ke-daur-se-punjab-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/toofan-ke-daur-se-punjab.js"))),
+  "component---src-pages-books-uttarakhand-ke-path-par-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/uttarakhand-ke-path-par.js"))),
+  "component---src-pages-books-vishwa-paridrisya-videsh-neeti-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/vishwa-paridrisya-videsh-neeti.js"))),
+  "component---src-pages-books-vitta-neeti-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/books/vitta-neeti.js"))),
+  "component---src-pages-classification-of-books-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/classificationOfBooks.js"))),
+  "component---src-pages-contact-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/contact.js"))),
+  "component---src-pages-index-js": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/index.js"))),
+  "component---src-pages-using-typescript-tsx": hot(preferDefault(require("/home/sahil/Project/vedic-nation-frontend/src/pages/using-typescript.tsx")))
+}
+
