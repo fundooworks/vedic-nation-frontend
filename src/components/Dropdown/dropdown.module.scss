@@ -1,0 +1,59 @@
+@import "../../scss/variables";
+.dropdown {
+  position: relative;
+
+  &__btn {
+    appearance: none;
+    border: none;
+    background-color: transparent;
+    font-family: $ff-base;
+    font-size: 14px;
+    color: #303030;
+    text-transform: uppercase;
+    font-weight: 600;
+    outline: none;
+
+    &::after {
+      display: block;
+      position: absolute;
+      content: "";
+      width: calc(100% - 16px);
+      height: 2px;
+      background-color: currentColor;
+      transform: scaleX(0);
+      transform-origin: center center;
+      transition: all 0.3s ease-in-out;
+    }
+
+    &.active {
+      color: #1676b5;
+    }
+
+    &.active::after,
+    &:hover::after {
+      transform: scaleX(1);
+    }
+  }
+
+  &__body {
+    position: absolute;
+    top: calc(100% + 16px);
+    left: -16px;
+    background-color: $white;
+    padding: 16px;
+    min-width: 240px;
+    white-space: nowrap;
+    box-shadow: 0 1px 3px rgba($black, 0.3);
+  }
+
+  &__link {
+    position: relative;
+    display: block;
+    padding: 4px 8px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #303030;
+    font-size: 14px;
+    font-weight: 600;
+  }
+}

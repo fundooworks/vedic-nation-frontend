@@ -1,0 +1,11 @@
+.brand {
+  width: 110px;
+  margin-left: 20px;
+  &__link{
+    text-decoration: none;
+    img{
+      object-fit: unset;
+      margin: 0;
+    }
+  }
+}
