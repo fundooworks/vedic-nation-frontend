@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{"6Yb0":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=t("Wbzz"),r=t("Bl7J"),u=t("vrFN"),i=t("cafg"),o=t("EEAq");a.default=function(){var e=Object(c.d)("993445068");return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"Svetlana"}),l.a.createElement(i.a,null,l.a.createElement("div",{className:"container"},l.a.createElement("h1",null,"Svetlana"))),l.a.createElement(o.a,{url:e.book.publicURL}))}}}]);
-//# sourceMappingURL=component---src-pages-books-svetlana-js-585f1a5d3b377653cf76.js.map

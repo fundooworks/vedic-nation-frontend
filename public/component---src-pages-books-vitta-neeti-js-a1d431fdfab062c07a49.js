@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[49],{xlcw:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=a("Wbzz"),r=a("Bl7J"),i=a("vrFN"),u=a("cafg"),o=a("EEAq");t.default=function(){var e=Object(c.d)("509869878");return l.a.createElement(r.a,null,l.a.createElement(i.a,{title:"Vitta Neeti"}),l.a.createElement(u.a,null,l.a.createElement("div",{className:"container"},l.a.createElement("h1",null,"Vitta Neeti"))),l.a.createElement(o.a,{url:e.book.publicURL}))}}}]);
-//# sourceMappingURL=component---src-pages-books-vitta-neeti-js-a1d431fdfab062c07a49.js.map

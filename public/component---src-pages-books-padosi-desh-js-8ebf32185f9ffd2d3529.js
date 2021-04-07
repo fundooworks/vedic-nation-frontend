@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{ypkO:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=t("Wbzz"),r=t("Bl7J"),i=t("vrFN"),o=t("cafg"),s=t("EEAq");a.default=function(){var e=Object(c.d)("2278620275");return l.a.createElement(r.a,null,l.a.createElement(i.a,{title:"Padosi Desh"}),l.a.createElement(o.a,null,l.a.createElement("div",{className:"container"},l.a.createElement("h1",null,"Padosi Desh"))),l.a.createElement(s.a,{url:e.book.publicURL}))}}}]);
-//# sourceMappingURL=component---src-pages-books-padosi-desh-js-8ebf32185f9ffd2d3529.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{CVJg:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),r=t("Wbzz"),c=t("Bl7J"),i=t("vrFN"),u=t("cafg"),m=t("EEAq");a.default=function(){var e=Object(r.d)("1856870072");return l.a.createElement(c.a,null,l.a.createElement(i.a,{title:"Kashmir"}),l.a.createElement(u.a,null,l.a.createElement("div",{className:"container"},l.a.createElement("h1",null,"Kashmir"))),l.a.createElement(m.a,{url:e.book.publicURL}))}}}]);
-//# sourceMappingURL=component---src-pages-books-kashmir-js-7f991b85ff3da639d599.js.map
