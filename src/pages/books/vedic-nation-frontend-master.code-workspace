@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "vedicnation",
+			"path": "../../../vedicnation"
+		}
+	],
+	"settings": {}
+}
