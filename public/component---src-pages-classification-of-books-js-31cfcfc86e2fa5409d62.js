@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[61],{OHEo:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("Wbzz"),l=a("Bl7J"),r=a("vrFN"),i=a("EEAq");t.default=function(){var e=Object(c.d)("2929864695");return o.a.createElement(l.a,null,o.a.createElement(r.a,{title:"Classification Of Books"}),o.a.createElement(i.a,{url:e.book.publicURL}))}}}]);
+//# sourceMappingURL=component---src-pages-classification-of-books-js-31cfcfc86e2fa5409d62.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[64],{Bbkm:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("Wbzz"),c=a("Bl7J"),i=a("vrFN"),u=a("EEAq");t.default=function(){var e=Object(r.d)("1027856374");return l.a.createElement(c.a,null,l.a.createElement(i.a,{title:"Kshitish Granthavali Volumes"}),l.a.createElement(u.a,{url:e.book.publicURL}))}}}]);
+//# sourceMappingURL=component---src-pages-kshitish-granthavali-volumes-js-ba9c4f0e0b2e18127772.js.map
