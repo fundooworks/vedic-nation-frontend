@@ -8,7 +8,6 @@ import Hero from "../../components/Hero/hero"
 
 const AboutTheTrustPage = () => {
   return (
-    
     <Layout>
       <SEO title="About the Trust" />
       <Hero>
