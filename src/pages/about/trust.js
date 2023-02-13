@@ -59,7 +59,7 @@ const AboutTheTrustPage = () => {
         </div>
         <div>
           <div>
-            Telephone: <span>26853064 , 26852745</span>
+            Telephone: <span>+91 9811063505, +91 9821333121</span>
           </div>
         </div>
         <div>

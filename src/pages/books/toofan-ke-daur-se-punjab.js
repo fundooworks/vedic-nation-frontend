@@ -22,7 +22,7 @@ const ToofanKeDaurSePunjabPage = () => {
       <SEO title="Toofan Ke Daur Se - Punjab" />
       <Hero>
         <div className="container">
-          <h1>Toofan Ke Daur Se - Punjab</h1>
+          <h1>Toofan Ke Daur Se Punjab</h1>
         </div>
       </Hero>
       <PDFViewer url={data.book.publicURL} />

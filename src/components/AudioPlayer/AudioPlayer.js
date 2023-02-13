@@ -13,7 +13,7 @@ const AudioPlayers = props => (
     query={graphql`
       query {
         audio: file(
-          relativePath: { eq: "https://webaudiovedicnation.s3.amazonaws.com/audio/kashish-jee-kee-raashtreey-soch.mp3" }      
+          relativePath: { eq: "audios/kashish-jee-kee-raashtreey-soch.mp3" }      
         ) {
           id
           publicURL

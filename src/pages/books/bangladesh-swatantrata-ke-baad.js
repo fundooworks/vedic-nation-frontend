@@ -22,7 +22,7 @@ const BangladeshSwatantrataKeBaadPage = () => {
       <SEO title="Bangladesh - Swatantrata Ke Baad" />
       <Hero>
         <div className="container">
-          <h1>Bangladesh - Swatantrata Ke Baad</h1>
+          <h1>Bangla Desh: Swatantrata Ke Baad</h1>
         </div>
       </Hero>
       <PDFViewer url={data.book.publicURL} />

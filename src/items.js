@@ -233,25 +233,25 @@ export const items = [
     ctaLink: "/books/ishwar-vaijyanikon-ki-drishti-mein",
   },
   {
-    name: "Satavlekar Abhinandan Granth",
+    name: "Satvalekar Felicitation Digest",
     hindiName: "सातवलेकर अभिनन्दन ग्रन्थ",
-    englishName: "Satavlekar Abhinandan Granth",
+    englishName: "Satvalekar Felicitation Digest",
     imagePath: "book-covers/Satavlekar-Abhinandan-Granth.jpg",
     categoryID: "1",
     ctaLink: "/books/Satavlekar-Abhinandan-Granth",
   },
   {
-    name: "Mauritius Smarika 1974",
+    name: "Mauritius Memorial Digest",
     hindiName: "मॉरीशस स्मारक 1974",
-    englishName: "Mauritius Memorial 1974",
+    englishName: "Mauritius Memorial Digest",
     imagePath: "book-covers/Mauritius-Smarika-1974_compressed.jpg",
     categoryID: "1",
     ctaLink: "/books/Mauritius-Smarika-1974",
   },
   {
-    name: "London Smarika",
+    name: "London Memorial Digest",
     hindiName: "लंदन स्मारिका",
-    englishName: "London Smarika",
+    englishName: "London Memorial Digest",
     imagePath: "book-covers/London-Smarika_compressed.jpg",
     categoryID: "1",
     ctaLink: "/books/London-Smarika",
@@ -358,9 +358,9 @@ export const items2 = [
 
 export const items3 = [
   {
-    name: "Bujhati Rakh me Chamaktee Chingariyan",
-    hindiName: "बुझाती राख में चमकती चिंगारीयां",
-    englishName: "Sparks in Extinguished Ashes",
+    name: "Bujhati Raakh Mein Chamakti Chingariyan",
+    hindiName: "बुझती राख में चमकती चिंगारियां",
+    englishName: "Glowing Sparks in Smouldering Ashes",
     imagePath: "book-covers/Bujhati-Rakh-me-Chamaktee-Chingariyan.jpg",
     categoryID: "7",
     ctaLink: "/books/Bujhati-Rakh-me-Chamaktee-Chingariyan",
@@ -376,9 +376,9 @@ export const items3 = [
 ]
 export const items4 = [
   {
-    name: "Anubhumika for Kashmir Khulasta Swarg",
-    hindiName: "कश्मीर खुलस्ता स्वर्ग के लिए भूमिका",
-    englishName: "Prelude to Kashmir Khulsta Paradise",
+    name: "'Kashmir - Jhulasta Swarg' ke liye Anubhoomika",
+    hindiName: "'कश्मीर - झुलसता स्वर्ग' के लिए अनुभूमिका",
+    englishName: "Prologue for 'Kashmir - Scorching Paradise'",
     imagePath: "book-covers/Anubhumika-for-Kashmir-Khulasta-Swarg.jpg",
     categoryID: "8",
     ctaLink: "/books/Anubhumika-for-Kashmir-Khulasta-Swarg",
@@ -394,9 +394,9 @@ export const items4 = [
 ]
 export const items5 = [
   {
-    name: "Bangladesh Anubhoomika",
-    hindiName: "बांग्लादेश अनुभविका",
-    englishName: "Bangladesh Veteran",
+    name: "Swatantrata Ke Baad ke liye Anubhoomika",
+    hindiName: "बँगला देश: स्वतंत्रता के बाद के लिए अनुभूमिका",
+    englishName: "Prologue for 'Bangla Desh: After Independence'",
     imagePath: "book-covers/Bangladesh.jpg",
     categoryID: "9",
     ctaLink: "/books/Bangladesh-Anubhoomika",

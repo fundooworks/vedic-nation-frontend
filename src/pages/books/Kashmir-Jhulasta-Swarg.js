@@ -11,7 +11,7 @@ const KashmirJhulastaSwarg = () => {
       <SEO title="Books" />
       <Hero>
         <div className="container">
-          <h1>Kashmir Jhulasta Swarg</h1>
+          <h1>Kashmir: Jhulasta Swarg </h1>
         </div>
       </Hero>
       <div>

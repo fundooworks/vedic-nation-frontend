@@ -22,7 +22,7 @@ const BujhatiRakhmeChamakteeChingariyan = () => {
       <SEO title="Bujhati Rakh me Chamaktee Chingariyan" />
       <Hero>
         <div className="container">
-          <h1>Bujhati Rakh me Chamaktee Chingariyan</h1>
+          <h1>Bujhati Raakh Mein Chamakti Chingariyan</h1>
         </div>
       </Hero>
       <PDFViewer url={data.book.publicURL} />

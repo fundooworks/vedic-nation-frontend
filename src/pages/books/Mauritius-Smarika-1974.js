@@ -22,7 +22,7 @@ const MauritiusSmarika1974 = () => {
       <SEO title="Mauritius Smarika1 1974" />
       <Hero>
         <div className="container">
-          <h1>Mauritius Smarika 1974</h1>
+          <h1>Mauritius Memorial Digest</h1>
         </div>
       </Hero>
       <PDFViewer url={data.book.publicURL} />

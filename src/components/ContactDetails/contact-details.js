@@ -13,7 +13,7 @@ const ContactDetails = () => (
       </div>
       <div className={css.item}>
         <div className={css.label}>Phone</div>
-        <div className={css.info}> <a href="tel:+911126853064">+91 11 26853064</a>, <a href="tel:+911126852745">+91 1126852745</a></div>
+        <div className={css.info}> <a href="tel:+919811063505">+91 9811063505</a>, <a href="tel:+919821333121">+91 9821333121</a></div>
       </div>
       <div className={css.item}>
         <div className={css.label}>Email</div>

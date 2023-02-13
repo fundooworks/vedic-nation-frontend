@@ -22,7 +22,7 @@ const LondonSmarika = () => {
       <SEO title="London Smarika" />
       <Hero>
         <div className="container">
-          <h1>London Smarika</h1>
+          <h1>London Memorial Digest</h1>
         </div>
       </Hero>
       <PDFViewer url={data.book.publicURL} />
